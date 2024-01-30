@@ -1,1 +1,1 @@
-To see if "Compare and Pull Request" appears
+To see if "Compare and Pull Request" appears after setting branch ken_ipynb in github
